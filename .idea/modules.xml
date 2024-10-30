@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OSINT Account Checker.iml" filepath="$PROJECT_DIR$/.idea/OSINT Account Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Account Scanner.iml" filepath="$PROJECT_DIR$/.idea/Account Scanner.iml" />
     </modules>
   </component>
 </project>
